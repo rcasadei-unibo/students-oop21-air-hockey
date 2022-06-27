@@ -30,4 +30,6 @@ hs_err_pid*
 /target/
 
 # Game files
-/config/*
+/config/*.gradle/
+build
+.gradle/
